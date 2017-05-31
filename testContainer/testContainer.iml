@@ -2,12 +2,9 @@
 <module type="GO_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-    </content>
+    <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Go 1.8" jdkType="Go SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="GOPATH &lt;test&gt;" level="project" />
-    <orderEntry type="library" name="GOPATH &lt;testmuticore&gt;" level="project" />
+    <orderEntry type="library" name="GOPATH &lt;testContainer&gt;" level="project" />
   </component>
 </module>

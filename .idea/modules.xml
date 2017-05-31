@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/go_test.iml" filepath="$PROJECT_DIR$/go_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testContainer/testContainer.iml" filepath="$PROJECT_DIR$/testContainer/testContainer.iml" />
       <module fileurl="file://$PROJECT_DIR$/testmuticore/testmuticore.iml" filepath="$PROJECT_DIR$/testmuticore/testmuticore.iml" />
       <module fileurl="file://$PROJECT_DIR$/testmysql/testmysql.iml" filepath="$PROJECT_DIR$/testmysql/testmysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/testweb/testweb.iml" filepath="$PROJECT_DIR$/testweb/testweb.iml" />
