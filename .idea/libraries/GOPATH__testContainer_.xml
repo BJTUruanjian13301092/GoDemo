@@ -13,6 +13,7 @@
       <root url="file://$PROJECT_DIR$/testIO" />
       <root url="file://$PROJECT_DIR$/testmysql" />
       <root url="file://$PROJECT_DIR$/testmuticore" />
+      <root url="file://$PROJECT_DIR$/testRedis" />
       <root url="file://$PROJECT_DIR$" />
       <root url="file://$PROJECT_DIR$/testweb" />
       <root url="file://$PROJECT_DIR$/testContainer" />
