@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="GOPATH &lt;testIO&gt;">
+  <library name="GOPATH &lt;testJson&gt;">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../src/quickstart" />
       <root url="file://$PROJECT_DIR$/../src/github.com" />
