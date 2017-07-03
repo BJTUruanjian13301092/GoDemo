@@ -45,5 +45,6 @@ func main() {
 		fmt.Println("error is %v\n", err)
 	} else {
 		fmt.Printf("%v\n", t_struct)
+		fmt.Printf("%s\n", t_struct.Return[1].Token)
 	}
 }

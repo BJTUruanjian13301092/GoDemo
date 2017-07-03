@@ -11,11 +11,13 @@
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$/testIO" />
+      <root url="file://$PROJECT_DIR$/testArray" />
       <root url="file://$PROJECT_DIR$/testRedis" />
       <root url="file://$PROJECT_DIR$/testJson" />
       <root url="file://$PROJECT_DIR$/testContainer" />
       <root url="file://$PROJECT_DIR$/testmysql" />
       <root url="file://$PROJECT_DIR$/testweb" />
+      <root url="file://$PROJECT_DIR$/testGoroutine" />
       <root url="file://$PROJECT_DIR$/testmuticore" />
       <root url="file://$PROJECT_DIR$" />
     </excluded>

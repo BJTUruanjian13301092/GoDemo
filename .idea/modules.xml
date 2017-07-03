@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/go_test.iml" filepath="$PROJECT_DIR$/go_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testArray/testArray.iml" filepath="$PROJECT_DIR$/testArray/testArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/testContainer/testContainer.iml" filepath="$PROJECT_DIR$/testContainer/testContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testGoroutine/testGoroutine.iml" filepath="$PROJECT_DIR$/testGoroutine/testGoroutine.iml" />
       <module fileurl="file://$PROJECT_DIR$/testIO/testIO.iml" filepath="$PROJECT_DIR$/testIO/testIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/testJson/testJson.iml" filepath="$PROJECT_DIR$/testJson/testJson.iml" />
       <module fileurl="file://$PROJECT_DIR$/testRedis/testRedis.iml" filepath="$PROJECT_DIR$/testRedis/testRedis.iml" />
