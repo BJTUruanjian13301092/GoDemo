@@ -5,6 +5,6 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="GOPATH &lt;go_test&gt;" level="project" />
+    <orderEntry type="library" name="GOPATH &lt;testArray&gt;" level="project" />
   </component>
 </module>
